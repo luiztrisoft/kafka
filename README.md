@@ -2,11 +2,11 @@
 
 [POST] http://localhost:8080/api/salvar-produto
 
-{
-	"descricao":"Playstation 4",
-	"valor": 2300.00,
-	"quantidade": 3
-}
+	{
+		"descricao":"Playstation 4",
+		"valor": 2300.00,
+		"quantidade": 3
+	}
 
 
 Antes de executar o consumidor e o produtor é ser necessário instalar o docker e docker-compose na maquina para executar o arquivo docker-compose.yml
