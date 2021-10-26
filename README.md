@@ -22,6 +22,7 @@ sudo apt install docker.io
 
 ### Step 4: Start and Automate Docker
 sudo systemctl start docker
+
 sudo systemctl enable docker
 
 ### Step 5 (Optional): Check Docker Version
