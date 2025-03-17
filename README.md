@@ -9,7 +9,7 @@
 	}
 
 
-Antes de executar o consumidor e o produtor é necessário possuir o docker e docker-compose instalados para executar o arquivo docker-compose.yml
+Antes de executar o consumidor e o produtor é necessário possuir o docker instalado para executar o arquivo docker-compose.yml
 
 ### Step 1: Update Software Repositories
 sudo apt-get update
